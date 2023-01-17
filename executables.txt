@@ -1,0 +1,614 @@
+c:/Program Files/Image-Line/FL Studio 20\AudioRestore.dll
+c:/Program Files/Image-Line/FL Studio 20\FL64 (scaled).exe
+c:/Program Files/Image-Line/FL Studio 20\FL64.exe
+c:/Program Files/Image-Line/FL Studio 20\FLEngine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20\FLMManaged.dll
+c:/Program Files/Image-Line/FL Studio 20\iZAudioRestore.dll
+c:/Program Files/Image-Line/FL Studio 20\speaker_x64.dll
+c:/Program Files/Image-Line/FL Studio 20\uninstall.exe
+c:/Program Files/Image-Line/FL Studio 20\WebView2Loader.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\DelZip64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\DirectWaveCtEngine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\dsp_ippv2.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\dsp_ippv2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\elastique_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\freetype.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\freetype_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\ildsp_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\ILMinihostBridge64.exe
+c:/Program Files/Image-Line/FL Studio 20/Shared\ILPluginScanner64.exe
+c:/Program Files/Image-Line/FL Studio 20/Shared\ILRemoteServer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\ILSvg_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\ILTools_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\LAMEenc_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\oggio_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\QuickFontCache.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\QuickFontCache_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\Reverb_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\REX Shared Library_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\SG_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\svctl64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\sveng64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared\wavpackdll_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Control Surface\Control Surface_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Distructor\Distructor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Edison\Edison_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Effector\Effector_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/EQUO\EQUO_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Frequency Shifter\Engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Frequency Shifter\Frequency Shifter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Frequency Splitter\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Frequency Splitter\Frequency Splitter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity 7 Band EQ\Fruity 7 Band EQ_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Balance\Fruity Balance_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Bass Boost\Fruity Bass Boost_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Big Clock\Fruity Big Clock_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Blood Overdrive\Fruity Blood Overdrive_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Center\Fruity Center_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Chorus\Fruity Chorus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Compressor\Fruity Compressor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Convolver\Fruity Convolver_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity dB Meter\Fruity dB meter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Delay\Fruity Delay_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Delay 2\Fruity Delay 2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Delay 3\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Delay 3\Fruity Delay 3_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Delay Bank\Fruity Delay Bank_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Fast Dist\Fruity Fast Dist_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Fast LP\Fruity Fast LP_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Filter\Fruity Filter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Flanger\Fruity Flanger_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Flangus\Fruity Flangus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Formula Controller\Fruity Formula Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Free Filter\Fruity Free Filter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity HTML NoteBook\Fruity HTML NoteBook_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Limiter\Fruity Limiter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Love Philter\Fruity Love Philter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity LSD\Fruity LSD_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Multiband Compressor\comp_eng_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Multiband Compressor\Fruity Multiband Compressor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Mute 2\Fruity Mute 2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity NoteBook\Fruity NoteBook_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity NoteBook 2\Fruity NoteBook 2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity PanOMatic\Fruity PanOMatic_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Parametric EQ\Fruity Parametric EQ_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Parametric EQ 2\Fruity Parametric EQ 2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Peak Controller\Fruity Peak Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Phase Inverter\Fruity Phase Inverter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Phaser\Fruity Phaser_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Reeverb\Fruity Reeverb_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Reeverb 2\Fruity Reeverb 2_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Scratcher\Fruity Scratcher_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Send\Fruity Send_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Soft Clipper\Fruity Soft Clipper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Spectroman\Fruity Spectroman_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Squeeze\Fruity Squeeze_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Stereo Enhancer\Fruity Stereo Enhancer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Stereo Shaper\Fruity Stereo Shaper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Vocoder\Fruity Vocoder_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity WaveShaper\Fruity WaveShaper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity Wrapper\Fruity Wrapper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity X-Y Controller\Fruity X-Y Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Fruity X-Y-Z Controller\Fruity X-Y-Z Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Gross Beat\Gross Beat_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Hardcore\Hardcore_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Maximus\Maximus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Newtime\Newtime_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Newtone\Newtone_Engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Newtone\Newtone_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Patcher\Patcher_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Pitch Shifter\Pitch Shifter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Pitcher\Pitcher_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Razer Chroma\Razer Chroma_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Soundgoodizer\Soundgoodizer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Transient Processor\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Transient Processor\Transient Processor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Tuner\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Tuner\Tuner_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/VFX Color Mapper\VFX Color Mapper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/VFX Envelope\VFX Envelope_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/VFX Key Mapper\VFX Key Mapper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/VFX Keyboard Splitter\VFX Keyboard Splitter_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/VFX Level Scaler\VFX Level Scaler_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Vintage Chorus\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Vintage Chorus\Vintage Chorus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Vocodex\Vocodex_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Wave Candy\Wave Candy_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/ZGameEditor Visualizer\Processing.NDI.Lib.x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/ZGameEditor Visualizer\ZGameEditor Visualizer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/ZGameEditor Visualizer\ZGEBullet_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/ZGameEditor Visualizer\ZgeNano_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/ZGameEditor Visualizer\ZgeSkelet_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Distructor/module\Module_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Edison/Data/Scripts/Examples\testdll_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Effects/Vocodex/Synthesizer\Sytrus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/3x Osc\3x Osc_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/3x Osc\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Autogun\Autogun_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/BassDrum\BassDrum_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/BeepMap\BeepMap_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/BooBass\BooBass_Eng_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/BooBass\BooBass_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Dashboard\Dashboard_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/DirectWave\DirectWave_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/DirectWave\editor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Drumaxx\Drumaxx_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Drumpad\Drumpad_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FL Keys\FL Keys_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FL Slayer\FL Slayer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FL Slayer\Slayer_Engine.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FL Studio Mobile\FL Studio Mobile_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FLEX\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FLEX\FLEX_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FPC\FPC_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruit Kick\Fruit Kick_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Dance\Fruity dance_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity DrumSynth Live\drumsynth_eng_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity DrumSynth Live\Fruity DrumSynth Live_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity DX10\Fruity DX10_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Envelope Controller\Fruity Envelope Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Granulizer\Fruity Granulizer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Keyboard Controller\Fruity Keyboard Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Slicer\Fruity Slicer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Video Player\Fruity Video Player_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Voltage Controller\Fruity Voltage Controller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Fruity Wrapper\Fruity Wrapper_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/GMS\GMS_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Harmless\Harmless_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Harmor\Harmor_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/MIDI Out\MIDI Out_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/MiniSynth\MiniSynth_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Morphine\Morphine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Ogun\Ogun_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Patcher\Patcher_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Plucked!\Plucked!_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/PoiZone\PoiZone_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/ReWired\ReWired_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Sakura\Sakura_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Sawer\Sawer_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/SimSynth\SimSynth_Eng_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/SimSynth\SimSynth_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Slicex\Slicex_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Soundfont Player\Soundfont Player_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Sytrus\Sytrus_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Toxic Biohazard\Toxic Biohazard_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Transistor Bass\engine_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Transistor Bass\Transistor Bass_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Wasp\Wasp_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Wasp XT\Wasp XT_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/Wave Traveller\Wave Traveller_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Plugins/Fruity/Generators/FL Studio Mobile/Installed/DLL\FLMManagedBridge_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/Python\PyBridge_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\avcodec-58.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\avformat-58.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\avutil-56.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\ILVideo_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\swresample-3.dll
+c:/Program Files/Image-Line/FL Studio 20/Shared/ffmpeg/x64\swscale-5.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Plugin/ReWire\FLReWire_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Plugin/ReWire/x64\ReWire.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Plugin/VSTi/x64\FL Studio VSTi (Multi).dll
+c:/Program Files/Image-Line/FL Studio 20/System/Plugin/VSTi/x64\FL Studio VSTi.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/BeatSlicer\ZeroX_SC.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/BeatSlicer\zx_bs_d.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Control Creator\ControlCreator.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Diagnostics\fldiagnostic.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Diagnostics\WebView2Loader.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Plugin Manager\PluginManager.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Soundman\soundman_x64.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Bridge/32bit\ilbridge.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/Bridge/64bit\ilbridge.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\gs-8.70.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\gs.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\gspawn-win32-helper.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\guile.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libexpat-1.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libfontconfig-1.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libfreetype-6.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libglib-2.0-0.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libgmodule-2.0-0.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libgmp-3.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libgobject-2.0-0.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libguile-17.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libguile-srfi-srfi-1-v-3-3.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libiconv-2.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libintl-8.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libjpeg-62.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\liblicoli-1.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libltdl-7.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libpango-1.0-0.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libpangoft2-1.0-0.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libpng-3.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libpython2.4.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libregex-2.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\libz.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\lilypond-windows.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\pthreadGC2.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\python-windows.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\python.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\strop.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\struct.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-licoli.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-lily.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-midi.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-pdf.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-preview.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test-ps.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\test.exe
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/bin\_locale.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/lib/lilypond/current/python\midi.dll
+c:/Program Files/Image-Line/FL Studio 20/System/Tools/LilyPond/lib/pango/1.6.0/modules\pango-basic-fc.dll
+c:/ProgramData/Apple/Installer Cache/Bonjour 3.0.0.10\Bonjour64.msi
+c:/ProgramData/ArturiaSC/Arturia Software Center/temp\updater.exe
+c:/ProgramData/Battle.net/Agent\Agent.exe
+c:/ProgramData/Battle.net/Agent\Blizzard Uninstaller.exe
+c:/ProgramData/Battle.net/Agent\BlizzardError.exe
+c:/ProgramData/Battle.net/Agent/Agent.8067\Agent.exe
+c:/ProgramData/Battle.net/Agent/Agent.8093\Agent.exe
+c:/ProgramData/Epic/EpicGamesLauncher\EpicOnlineServices.msi
+c:/ProgramData/Epic/EpicGamesLauncher\InstallChainer.exe
+c:/ProgramData/Epic/EpicGamesLauncher\Microsoft.Deployment.WindowsInstaller.dll
+c:/ProgramData/MeldaProduction/LIB\MDownloader.exe
+c:/ProgramData/MeldaProduction/LIB\MeldaProductionAudioPluginKernelV11.dll
+c:/ProgramData/MeldaProduction/LIB\MeldaProductionAudioPluginKernelV1164.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/8741770ad4cb4fef6131e1ae626a78b9\527.56-desktop-win10-win11-64bit-international-dch-whql-g.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/f0cb9557a12177fa803dc736e0ed0e1c\GeForce_Experience_Update_v3.26.0.160_Official_021C88.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest\setup.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/Display.Optimus\OptimusUpdateExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/Display.Update\DisplayUpdateExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK\FrameViewSdkExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK\nvfvsdksvc_x64.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\7z.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\chrome_elf.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\courgette.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\d3dcompiler_43.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\d3dcompiler_47.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\GeForce Experience Permission.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\GfeXCode64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\GFExperienceExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\InstallerExtension.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\libcef.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\libEGL.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\libGLESv2.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\nvdlisrwrapper.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\NVIDIA GeForce Experience.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\NVIDIA Notification.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\NVIDIA Share.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\NvInstallerUtil.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\nvngx_dlisr.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience\OSCExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv\NvStreamSrvExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/MSVCRT\MSVCRTExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/nodejs\GfeXCode.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/nodejs\NVIDIA Web Helper.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/nodejs\NvNodeExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/nodejs\nvnodejslauncher.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvBackend64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvBackendAPI32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvBackendAPI64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvBackendExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvBatteryBoostCheck64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvDriverUpdateCheck64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvSHIM.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvBackend\NvTmRep.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer\NvContainerRecovery.bat
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NVI2\NVI2.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NVI2\NVI2UI.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NVI2\NvInstallerUtil.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NVI2\NVPrxy32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NVI2\NVPrxy64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetry64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetryAPI32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetryAPI64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetryBridge32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetryBridge64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvTelemetry\NvTelemetryExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvVAD\nvaudcap32v.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvVAD\nvaudcap64v.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\capcore64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\DSETUP.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\dsetup32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\DXSETUP.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\ipccommon.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\ipccommon64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvfp64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvmf64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\NvRemux.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\NvRemux64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\NvRtmpStreamer64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspapi.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspapi64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspapix.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspapix64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspcap.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspcap64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvsphelper64.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvsphelperplugin64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\nvspscreenshot64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\ShadowPlayExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\_nvspcaps64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShadowPlay\_nvspserviceplugin64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShieldWirelessController\NVDeviceUtility32.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShieldWirelessController\NVDeviceUtility64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/ShieldWirelessController\ShieldWirelessControllerPlugin64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/Update.Core\NvProfileUpdater64.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/Update.Core\UpdateCoreExt.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\amd_ags_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\FvSDK_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\FvSDK_x86.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\nvrla.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\PresentMon_x64.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/bin\TestSystemDataCollectors_x64.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/etw_fcat\htcvive_install.bat
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/etw_fcat\NVFTVRDLL64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/etw_nv\ddETWExternal.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK\FvSDKTestClient.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK\FvSDKTestClient_Public.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Private_Debug\FvSDK_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Private_Debug\FvSDK_x86.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Private_Release\FvSDK_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Private_Release\FvSDK_x86.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Public_Debug\FvSDK_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Public_Debug\FvSDK_x86.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Public_Release\FvSDK_x64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/FrameViewSDK/SDK/Public_Release\FvSDK_x86.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/dependencies\CrimsonUtil.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/cef/common\OverClocking.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/cef/share\MessageBusRouter.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience/nvc/common\_OverClockingNvc.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/SteamLauncher\NVIDIA.SteamLauncher.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\AccountPairPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\AccountsHandlerPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\AppControlAggregator.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\AppController.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\AppListAggregator.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\ConnectionTester.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\cudart64_101.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\detoured.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\GfeSessionControl.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\GfnProductPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\GsNvBackend.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\GsProxyPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\GsTelemetry.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\IdentityPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\libcrypto-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\libssl-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\MonitorTelemetry.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NetworkCaptureControl.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NetworkTester.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvDisplayControl.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvGfeServiceBridge.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\nvinject.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvMdnsPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvPinPairUi.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvPortForwardPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\nvsteamsupport.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvStreamBase.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvStreamControl.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\nvstreamer.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvStreamServer.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\NvStreamUserAgentPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\PairAggregatorPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\PassThruPairPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\PerfStatisticsLogger.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\PinPairPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\ProcessGroupMonitorPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\RtspPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\RtspServer.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\RtspServerMb.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxaudio.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxcore.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxdiag.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxgamepadinput.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxgamepadremapping.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\rxnvgamepad.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\SCI.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\ServerInfoProcessor.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\ShieldWirelessControllerPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\SsauWatchdogPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\SteamBpController.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\SteamManager.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\steam_api64.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\StoreCleanupPlugin.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\StreamerController.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\StreamServerShared.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\UnifiedProtocol.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/amd64/server\WgcWrapper.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\detoured.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\NvGfeServiceBridge.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\nvinject.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxaudio.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxcore.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxdiag.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxgamepadinput.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxgamepadremapping.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/GFExperience.NvStreamSrv/x86/server\rxnvgamepad.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/amd64\libcrypto-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/amd64\libprotobuf.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/amd64\libssl-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/amd64\Poco.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/amd64\PocoInitializer.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\libcrypto-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\libprotobuf.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\libssl-1_1.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\MessageBus.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvContainer.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvContainerInternal.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvContainerTelemetryApi.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvMessageBusBroadcast.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvPluginNvapiMonitor.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\NvPluginWatchdog.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\Poco.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86\PocoInitializer.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\MessageBus.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvContainer.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvContainerInternal.exe
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvContainerTelemetryApi.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvMessageBusBroadcast.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvPluginNvapiMonitor.dll
+c:/ProgramData/NVIDIA Corporation/Downloader/latest/NvContainer/x86_64\NvPluginWatchdog.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-console-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-datetime-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-debug-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-errorhandling-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-file-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-file-l1-2-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-file-l2-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-handle-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-heap-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-interlocked-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-libraryloader-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-localization-l1-2-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-memory-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-namedpipe-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-processenvironment-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-processthreads-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-processthreads-l1-1-1.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-profile-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-rtlsupport-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-string-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-synch-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-synch-l1-2-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-sysinfo-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-timezone-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-core-util-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-conio-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-convert-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-environment-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-filesystem-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-heap-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-locale-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-math-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-multibyte-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-private-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-process-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-runtime-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-stdio-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-string-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-time-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\api-ms-win-crt-utility-l1-1-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\avutil-ttv-51.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\d3dcompiler_47.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\EALink.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\EAProxyInstaller.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\EASteamProxy.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\GetGameToken32.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\GetGameToken64.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\icudt58.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\icuin58.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\icuuc58.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\IGO32.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\igo64.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\igoproxy.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\igoproxy64.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\libcurl.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libeay32.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libEGL.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libEGL_Swift.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libGLESv2.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libGLESv2_Swift.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libmfxsw32.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\libmp3lame-ttv.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\msvcp140.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Origin.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginClient.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginClientService.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginCrashReporter.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginER.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginThinSetupInternal.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginUninstall.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\OriginWebHelperService.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Core.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Gui.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Multimedia.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5MultimediaWidgets.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Network.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5OpenGL.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Positioning.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5PrintSupport.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Qml.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Quick.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5QuickWidgets.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Sensors.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Sql.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5TextToSpeech.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5WebChannel.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5WebEngine.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5WebEngineCore.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5WebEngineWidgets.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5WebSockets.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Widgets.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5Xml.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\Qt5XmlPatterns.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\QtWebEngineProcess.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\ssleay32.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\steam_api.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\steam_api64.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\swresample-ttv-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\twitchsdk_32_release.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\ucrtbase.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\UpdateTool.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x64.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x64_vs2010.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x64_vs2015.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x86.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x86_vs2010.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcredist_x86_vs2015.exe
+c:/ProgramData/Origin/SelfUpdate/Staged\vcruntime140.dll
+c:/ProgramData/Origin/SelfUpdate/Staged\winhttp.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/audio\qtaudio_windows.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qgif.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qico.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qjpeg.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qsvg.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qtga.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qtiff.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/imageformats\qwbmp.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\CmdPortalClient.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\EACore.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\EACoreServer.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\EAProxyInstaller.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\Login.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\MessageDlg.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\OriginLegacyCLI.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\OriginUninstall.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\PatchProgress.exe
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\QtCore4.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/legacyPM\QtGui4.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/mediaservice\dsengine.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/mediaservice\qtmedia_audioengine.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/platforms\qminimal.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/platforms\qwindows.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/printsupport\windowsprintersupport.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/texttospeech\qtexttospeech_sapi.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/x64\avutil-ttv-51.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/x64\libmfxsw64.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/x64\libmp3lame-ttv.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/x64\swresample-ttv-0.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/x64\twitchsdk_64_release.dll
+c:/ProgramData/Origin/SelfUpdate/Staged/plugins/OriginDeveloperTool\OriginDeveloperTool.dll
+c:/ProgramData/Overwolf/OverwolfUpdater\ftw.dll
+c:/ProgramData/Overwolf/OverwolfUpdater\nsis7z64.dll
+c:/ProgramData/Overwolf/OverwolfUpdater\owver64.exe
+c:/ProgramData/Overwolf/Setup\checkRedist.exe
+c:/ProgramData/Overwolf/Setup\ndp48-web.exe
+c:/ProgramData/Overwolf/Setup/0.216.0.26\OverwolfSetup.exe
+c:/ProgramData/Surge XT/uninstall\unins000.exe
+c:/ProgramData/Valhalla DSP, LLC/ValhallaSupermassive/InstallerFiles\unins000.exe
+c:/Riot Games/Riot Client\RiotClientCrashHandler.exe
+c:/Riot Games/Riot Client\RiotClientFoundation.dll
+c:/Riot Games/Riot Client\RiotClientServices.exe
+c:/Riot Games/Riot Client\RiotGamesApi.dll
+c:/Riot Games/Riot Client\vgrl.dll
+c:/Riot Games/Riot Client\vivoxsdk.dll
+c:/Riot Games/Riot Client/UX\chrome_elf.dll
+c:/Riot Games/Riot Client/UX\d3dcompiler_47.dll
+c:/Riot Games/Riot Client/UX\ffmpeg.dll
+c:/Riot Games/Riot Client/UX\libcef.dll
+c:/Riot Games/Riot Client/UX\libEGL.dll
+c:/Riot Games/Riot Client/UX\libGLESv2.dll
+c:/Riot Games/Riot Client/UX\RiotClientUx.exe
+c:/Riot Games/Riot Client/UX\RiotClientUxRender.exe
+c:/Riot Games/Riot Client/UX/swiftshader\libEGL.dll
+c:/Riot Games/Riot Client/UX/swiftshader\libGLESv2.dll
+c:/Users/Simon/Desktop\accesschk64a.exe
